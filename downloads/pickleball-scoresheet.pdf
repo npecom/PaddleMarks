@@ -1,0 +1,47 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1545 >>
+stream
+BT /F1 17 Tf 45 748 Td (PaddleMarks - Pickleball Scoresheet) Tj ET
+BT /F1 10 Tf 45 720 Td (Date: __________________  Location: ______________________________) Tj ET
+BT /F1 10 Tf 45 683 Td (Team A: _________________________ Team B: _________________________) Tj ET
+BT /F1 11 Tf 45 646 Td (GAME           TEAM A POINTS          TEAM B POINTS          WINNER) Tj ET
+BT /F1 10 Tf 45 609 Td (1                  __________                  __________               __________) Tj ET
+BT /F1 10 Tf 45 572 Td (2                  __________                  __________               __________) Tj ET
+BT /F1 10 Tf 45 535 Td (3                  __________                  __________               __________) Tj ET
+BT /F1 10 Tf 45 498 Td (4                  __________                  __________               __________) Tj ET
+BT /F1 10 Tf 45 461 Td (5                  __________                  __________               __________) Tj ET
+BT /F1 10 Tf 45 424 Td (Notes:) Tj ET
+BT /F1 10 Tf 45 387 Td (____________________________________________________________________) Tj ET
+BT /F1 10 Tf 45 350 Td (____________________________________________________________________) Tj ET
+BT /F1 10 Tf 45 313 Td (____________________________________________________________________) Tj ET
+BT /F1 10 Tf 45 276 Td (Optional progress reflection: Improved / Steady / Needs practice) Tj ET
+BT /F1 10 Tf 45 239 Td (Skill / focus: ________________________  Arrow: ______) Tj ET
+BT /F1 10 Tf 45 202 Td (A record, not an assignment. Track only what matters to you.) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1907
+%%EOF
